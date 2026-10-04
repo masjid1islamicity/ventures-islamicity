@@ -1,0 +1,6 @@
+{
+  "name": "Kaffah Ventures - AI Pitch Deck & 8000 Global Islamic Investors Superapp",
+  "description": "Platform superaplikasi Pitch Deck cerdas bertenaga AI dengan jaringan 8.000 investor global Islamicity Kaffah, audit blockchain syariah real-time, dasbor portofolio dakwah & donasi, serta kapabilitas offline mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
